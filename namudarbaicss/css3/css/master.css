@@ -1,0 +1,33 @@
+h1{
+   color: deepskyblue;
+   font-family:Georgia, Times, serif;
+   text-shadow:  2px 2px silver;
+}
+h3{
+   color: deepskyblue;
+   letter-spacing: 2px;
+   font-family: "Gill Sans", Arial, sans-serif;
+}
+h2{
+   color: deepskyblue;
+   font-family:Georgia, Times, serif;
+}
+span.span1{
+   color: deepskyblue;
+}
+p.paragrafas2{
+   color: silver;
+   font-style: normal;
+   font-family: Arial, Verdana, sans-serif;
+}
+p.paragrafas3{
+   text-align: right;
+   font-style: italic;
+   color: silver;
+}
+p.paragrafas1{
+   font-family: Arial, Verdana, sans-serif;
+}
+id{
+   font-weight: bold;
+}
