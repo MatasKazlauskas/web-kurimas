@@ -1,0 +1,26 @@
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+}
+
+body {
+   background-image: url(https://ak6.picdn.net/shutterstock/videos/2625776/thumb/1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   }
+
+main {
+   flex: 1 0 auto;
+}
+
+.material-icons{
+   font-size: 10px;
+}
+
+.atitraukimas{
+   margin: 20px;
+}
+
+
+
